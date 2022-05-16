@@ -25,4 +25,4 @@
       As I previosuly stated, playing with the hidden layers until I found what I needed. 
       
 ## Summary
-  - 
+  - Overall teh model I made had an average of 78.94%. As far as recommendation goes I would reccomend usign the data I have and not include the EIN.  I would also try to get my name in more times to increase teh probability. 
